@@ -25,7 +25,9 @@ SECRET_KEY = '=qul6+wix^+iqpk)+r5(aao2d2#spl@%e%rcgy#jptn@egv5y+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'konczem1tripstest.azurewebsites.net',
+]
 
 
 # Application definition
